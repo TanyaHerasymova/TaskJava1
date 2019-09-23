@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d745ff2-f14e-439b-a5eb-40e99f1b95ff" name="Default Changelist" comment="" />
+    <list default="true" id="5d745ff2-f14e-439b-a5eb-40e99f1b95ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/TaskJ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/TaskJ1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/TaskJ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/TaskJ2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/TaskJ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/TaskJ3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/TaskJ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/TaskJ4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tasks/TaskJ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tasks/TaskJ5.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +23,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1RFcom6Qg5L4jXtYgtmfiypNPJJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="E:/ITEA/TaskJava1" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,24 +48,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TaskJ2">
+  <component name="RunManager">
     <configuration name="TaskJ1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskJ1" />
-      <module name="JavaTask1" />
+      <option name="MAIN_CLASS_NAME" value="tasks.TaskJ1" />
+      <module name="TaskJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskJ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TaskJ2" />
-      <module name="JavaTask1" />
+    <configuration name="TaskJ1" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tasks.TaskJ1" />
+      <module name="TaskJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TaskJ2" />
         <item itemvalue="Application.TaskJ1" />
       </list>
     </recent_temporary>
@@ -62,5 +81,19 @@
       <updated>1569266461995</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -1,3 +1,5 @@
+package tasks;
+
 public class TaskJ2 {
     public static void main(String[] args) {
         String name = "Tatyana";
